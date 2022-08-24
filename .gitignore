@@ -13,3 +13,6 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# You do not want your *.env* to be commited in most cases so added it here.
+.env
